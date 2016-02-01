@@ -7,10 +7,14 @@ The system has to check if a flash drive is plugged, in that case the system cry
 we have implemented the function which encrypts data in the flash drive.
 
 To run:
-*First copy S99Test.sh in /etc/init.d
-*Copy test.sh in /root/
-*Copy the bin encrypte in /root/
-*Reboot the Armadeus.
+
+First copy S99Test.sh in /etc/init.d
+
+Copy test.sh in /root/
+
+Copy the bin encrypte in /root/
+
+Reboot the Armadeus.
 
 in the Flash drive you have to store a file named toCrypt.txt which will be crypted.
 
